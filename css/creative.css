@@ -4,8 +4,15 @@ html {
   height: 100%;
 }
 
+
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+}
+.container-img {
+  height: auto;
+  width: auto;
+  max-width: 10px;
+  max-height: 30px;
 }
 
 hr {
