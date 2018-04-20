@@ -1,4 +1,11 @@
-.container-img{
-  height:256.984px;
-  width:428.328px;
+.containerreal{
+  overflow: hidden;
+  max-height:240px;
+  max-width:613.33px;
+  min-height: 240px;
+  min-width: 613.33px;
+}
+
+.redefineimg{
+  min-width: 613.33px;
 }
